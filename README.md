@@ -1,11 +1,10 @@
 FIR filter Library
 ==========================
 
-FIR filter Library. 
 
+I tested in Arduino IDE 1.0.1.
 
-Tested in Arduino IDE 1.0.1.
-The library is used in my M.Tech Project.
+The library is used in my Project.
 --------------------------------------------------------------------------------
 To use the library:
 
